@@ -4,7 +4,9 @@ electron app as ipc server for [vscode-extension-mardown-image-paste](https://gi
 
 # Installation
 ```
-npm install -g electron-image-ipc-server
+cd electron-image-ipc-server
+npm i # install dependences
+npm link # link from local module
 ```
 
 ```
